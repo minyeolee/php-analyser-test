@@ -1,4 +1,4 @@
-## About
+# php-analyser-test
 
 A simple docker app that runs several PHP analysers on a PHP projects codebase.
 
@@ -13,4 +13,3 @@ A simple docker app that runs several PHP analysers on a PHP projects codebase.
    docker run minyeol/php-analyser:latest
    ```
 
-# php-analyser-test
