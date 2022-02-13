@@ -1,6 +1,6 @@
 ## About
 
-A simple app that runs several PHP analysers on a PHP projects codebase.
+A simple docker app that runs several PHP analysers on a PHP projects codebase.
 
 ## Requirements
 
